@@ -1,4 +1,5 @@
- - [x] Damian
- - [x] New Jersey
- - [x] Sushi
- - [x] Play guitar
+ - [x] **Name:** Damian
+ - [x] **Where from:** New Jersey
+ - [x] **Favorite food:** Sushi
+ - [x] **Hobby:** Play guitar
+ - [x] **Favorite Color:** Blue
