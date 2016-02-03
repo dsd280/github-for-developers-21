@@ -3,3 +3,4 @@
  - [x] **Favorite food:** Sushi
  - [x] **Hobby:** Play guitar
  - [x] **Favorite Color:** Blue
+ - [x] **Current City:** Brooklyn
