@@ -1,0 +1,4 @@
+ - [x] Damian
+ - [x] New Jersey
+ - [x] Sushi
+ - [x] Play guitar
